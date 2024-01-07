@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47myks89xc5f7e53seycz8o2dcj7s3vga0sg4f9ewf&ep=v1_gifs_related&rid=giphy.gif&ct=g)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*641jWUJsaII6YX1x9_1lRA.gif)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I'm K.M. Hasibur Rahman Srijon 😎</h1>
 <h3 align="center">"Passionate CSE Student | Code Enthusiast | Competitive Programmer"</h3>
 <img src= 

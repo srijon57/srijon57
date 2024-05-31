@@ -10,7 +10,7 @@
 </p>
 
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/Mashrur112/Uni-Craft">Uni_craft</a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/srijon57/GeeK-Street-MERN">GEEK_STREET_MERN</a></li>
   <li>🌱 I’m currently learning Flutter, Data Structure and Algorithms, Digital Circuit Design.</li>
   <li>📫 How to reach me: <a href="mailto:srijond75@gmail.com">srijond75@gmail.com</a></li>
   <li>⚡ Fun fact: 1 + 1 = 10</li>
@@ -23,7 +23,7 @@
   <a href="https://fb.com/assassinboy.srijon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="assassinboy.srijon" height="30" width="40" /></a>
   <a href="https://instagram.com/sql.srijon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sql.srijon" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/srijond75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srijond75" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/srijond75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srijond75" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/srijond75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srijon75" height="30" width="40" /></a>
 </p>
 
 <h3 align="left" style="background-color: #05313d; color: white;">Languages and Tools:</h3>
@@ -46,13 +46,21 @@
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srijon57&theme=algolia" alt="srijon57's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="srijon57's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srijon57&theme=algolia&layout=compact" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srijon57&theme=algolia" alt="srijon57's Github stats" />
+  <img height="195px" align="right" alt="srijon57's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srijon57&theme=algolia&layout=compact" />
+</div>
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=srijon57&include_orgs=true&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,766cec,79F5FF,79FFBE,73FA79&theme=graywhite&locale=en">
+    <img src="https://github-readme-stats.vercel.app/api?username=srijon57&include_orgs=true&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,766cec,79F5FF,79FFBE,73FA79&theme=graywhite&locale=en" alt="Srijon's github stats" />
+  </a>
+</p>
+
+
+
+### **Recent projects:**
+
+<a href="https://github.com/srijon57/GeeK-Street-MERN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=GeeK-Street-MERN&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/srijon57/GeeK-Street-MERN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=Uni-Craft&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/srijon57/Akash-Dosshu-CSE1200 "><img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=Akash-Dosshu-CSE1200&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>

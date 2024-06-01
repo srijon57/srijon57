@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/k-m-hasibur-rahman-srijon-5346b0220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k-m-hasibur-rahman-srijon-5346b0220" height="30" width="40" /></a>
-  <a href="https://fb.com/assassinboy.srijon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="assassinboy.srijon" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/pseudonym.srijon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="assassinboy.srijon" height="30" width="40" /></a>
   <a href="https://instagram.com/sql.srijon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sql.srijon" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/srijond75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srijond75" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/srijond75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srijon75" height="30" width="40" /></a>

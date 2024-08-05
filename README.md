@@ -92,9 +92,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=srijon57&include_orgs=true&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=20&bg_color=0&theme=graywhite&locale=en">
-    <img src="https://github-readme-stats.vercel.app/api?username=srijon57&include_orgs=true&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=20&bg_color=202A44&algolia&layout=compact" alt="Srijon's github stats" />
-  </a>
+<a href="https://gitstats.me/varadbhogayata" target="_blank"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=srijon57&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
+    </a>
 </p>
 
 

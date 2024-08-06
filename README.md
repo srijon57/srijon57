@@ -16,6 +16,7 @@
   <li> I’m currently learning Flutter, Data Structure and Algorithms, Digital Circuit Design.</li>
   <li> How to reach me: <a href="mailto:srijond75@gmail.com">srijond75@gmail.com</a></li>
   <li> Fun fact: 1 + 1 = 10</li>
+  <li> Check out my Resume <a href="https://drive.google.com/file/d/1V01GXoiIncjhz-DnnUnnwjRCtcZ8NDYM/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> </li>
 </ul>
 
 <h3 align="left" style="background-color: #05313d; color: white;">Connect with me:</h3>
@@ -107,10 +108,8 @@
 </div>
 
 <p align="center">
-<a href="https://gitstats.me/varadbhogayata" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=srijon57&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
-    </a>
-    </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=srijon57&theme=tokyonight" alt="github stats" />
+</p>
 
 
 

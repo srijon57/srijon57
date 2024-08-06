@@ -1,4 +1,5 @@
 
+
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*641jWUJsaII6YX1x9_1lRA.gif)
 <h1 align="center" style="color: cyan;">Hello 👋, I'm K.M. Hasibur Rahman Srijon 😎</h1>
 
@@ -25,6 +26,7 @@
 <a href="https://instagram.com/sql.srijon"><img src="https://img.shields.io/badge/Instagram-343A40?style=for-the-badge&logo=instagram&logoColor=cyan" alt="instagram badge"/></a>
 <a href="https://www.codechef.com/users/srijond75"><img src="https://img.shields.io/badge/Codechef-343A40?style=for-the-badge&logo=codechef&logoColor=cyan" alt="dev.to badge"/></a>
 <a href="https://codeforces.com/profile/srijond75"><img src="https://img.shields.io/badge/CodeForces-343A40?style=for-the-badge&logo=codeforces&logoColor=cyan" alt="CodeForces badge"/></a>
+<a href="https://api.whatsapp.com/send?phone=8801671506100"><img src="https://img.shields.io/badge/Whatsapp-343A40?style=for-the-badge&logo=codeforces&logoColor=cyan" alt="Whatsapp badge"/></a>
 
 
 
@@ -32,6 +34,7 @@
 <h3 align="left" style="background-color: #05313d; color: white;">Languages and Tools:</h3>
 
 <p align="left">
+
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android badge"/>
   </a>
@@ -80,27 +83,40 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react badge"/>
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python badge"/>
+</a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java badge"/>
+</a>
+
 </p>
+
 
 
 
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srijon57&theme=algolia" alt="srijon57's Github stats" />
-  <img height="195px" align="right" alt="srijon57's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srijon57&theme=algolia&layout=compact" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=srijon57&theme=algolia" alt="srijon57's Github stats" /></td>
+      <td><img height="195px" alt="srijon57's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srijon57&theme=algolia&layout=compact" /></td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
 <a href="https://gitstats.me/varadbhogayata" target="_blank"> 
         <img src="https://github-readme-stats.vercel.app/api?username=srijon57&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
-</p>
+    </p>
+
 
 
 
 ### **Recent projects:**
 
 <a href="https://github.com/srijon57/GeeK-Street-MERN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=GeeK-Street-MERN&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/srijon57/GeeK-Street-MERN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=Uni-Craft&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/srijon57/Uni-Craft"><img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=Uni-Craft&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/srijon57/Akash-Dosshu-CSE1200 "><img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=Akash-Dosshu-CSE1200&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>

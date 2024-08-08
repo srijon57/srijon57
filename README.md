@@ -1,5 +1,3 @@
-
-
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*641jWUJsaII6YX1x9_1lRA.gif)
 <h1 align="center" style="color: cyan;">Hello 👋, I'm K.M. Hasibur Rahman Srijon 😎</h1>
 
@@ -16,7 +14,7 @@
   <li> I’m currently learning Flutter, Data Structure and Algorithms, Digital Circuit Design.</li>
   <li> How to reach me: <a href="mailto:srijond75@gmail.com">srijond75@gmail.com</a></li>
   <li> Fun fact: 1 + 1 = 10</li>
-  <li> Check out my Resume <a href="https://drive.google.com/file/d/1V01GXoiIncjhz-DnnUnnwjRCtcZ8NDYM/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> </li>
+  <li> Check out my  <a href="https://drive.google.com/file/d/1V01GXoiIncjhz-DnnUnnwjRCtcZ8NDYM/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a> </li>
 </ul>
 
 <h3 align="left" style="background-color: #05313d; color: white;">Connect with me:</h3>
@@ -27,15 +25,11 @@
 <a href="https://instagram.com/sql.srijon"><img src="https://img.shields.io/badge/Instagram-343A40?style=for-the-badge&logo=instagram&logoColor=cyan" alt="instagram badge"/></a>
 <a href="https://www.codechef.com/users/srijond75"><img src="https://img.shields.io/badge/Codechef-343A40?style=for-the-badge&logo=codechef&logoColor=cyan" alt="dev.to badge"/></a>
 <a href="https://codeforces.com/profile/srijond75"><img src="https://img.shields.io/badge/CodeForces-343A40?style=for-the-badge&logo=codeforces&logoColor=cyan" alt="CodeForces badge"/></a>
-<a href="https://api.whatsapp.com/send?phone=8801671506100"><img src="https://img.shields.io/badge/Whatsapp-343A40?style=for-the-badge&logo=codeforces&logoColor=cyan" alt="Whatsapp badge"/></a>
-
-
-
+<a href="https://api.whatsapp.com/send?phone=8801671506100"><img src="https://img.shields.io/badge/Whatsapp-343A40?style=for-the-badge&logo=whatsapp&logoColor=cyan" alt="Whatsapp badge"/></a>
 
 <h3 align="left" style="background-color: #05313d; color: white;">Languages and Tools:</h3>
 
 <p align="left">
-
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android badge"/>
   </a>
@@ -85,16 +79,42 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react badge"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python badge"/>
-</a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java badge"/>
-</a>
-
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python badge"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java badge"/>
+  </a>
+  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Cloudinary-F38020?style=for-the-badge&logo=cloudinary&logoColor=white" alt="cloudinary badge"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express badge"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs badge"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap badge"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github badge"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman badge"/>
+  </a>
+  <a href="https://www.microsoft.com/en/microsoft-365/word" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="word badge"/>
+  </a>
+  <a href="https://www.microsoft.com/en/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="powerpoint badge"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode badge"/>
+  </a>
+  <a href="https://filmora.wondershare.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Wondershare%20Filmora-0A80FF?style=for-the-badge&logo=wondershare&logoColor=white" alt="filmora badge"/>
+  </a>
 </p>
-
-
-
 
 ### ⚙️ GitHub Analytics
 
@@ -110,9 +130,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srijon57&theme=tokyonight" alt="github stats" />
 </p>
-
-
-
 
 ### **Recent projects:**
 

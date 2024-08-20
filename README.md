@@ -1,23 +1,24 @@
+
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*641jWUJsaII6YX1x9_1lRA.gif)
 <h1 align="center" style="color: cyan;">Hello 👋, I'm K.M. Hasibur Rahman Srijon 😎</h1>
-
 <h3 align="center" style="color: grey;">"Passionate CSE Student | Code Enthusiast | Competitive Programmer"</h3>
-
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474tgsl0nlxed77t25djjwv0k1vka3p1lx7ehqgu6m&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" align="right"> 
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=srijon57&label=Profile%20views&color=0e75b6&style=flat" alt="srijon57" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srijon57&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="srijon57" />
+  <img src="https://img.shields.io/github/followers/srijon57?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/srijon57?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474tgsl0nlxed77t25djjwv0k1vka3p1lx7ehqgu6m&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" align="right" height="400" width="450">
 
-<ul>
-  <li> I’m currently working on <a href="https://github.com/srijon57/GeeK-Street-MERN">GEEK_STREET_MERN</a></li>
-  <li> I’m currently learning Flutter, Data Structure and Algorithms, Digital Circuit Design.</li>
-  <li> How to reach me: <a href="mailto:srijond75@gmail.com">srijond75@gmail.com</a></li>
-  <li> Fun fact: 1 + 1 = 10</li>
-  <li> Check out my  <a href="https://drive.google.com/file/d/1V01GXoiIncjhz-DnnUnnwjRCtcZ8NDYM/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a> </li>
-</ul>
+<h2 align="center">🌟 About Me 🌟</h2>
 
-<h3 align="left" style="background-color: #05313d; color: white;">Connect with me:</h3>
+<div >
+  <ul>
+    <li>💠 I’m currently working on <a  href="https://github.com/srijon57/GeeK-Street-MERN">GEEK_STREET_MERN</a></li>  <li>💻 I’m currently learning Machine Learning, Deep Learning, MERN stack, PHP, Competitive Programming utilities, Code Smell, and more.</li>  <li>📧 How to reach me: <a  href="mailto:srijond75@gmail.com">srijond75@gmail.com</a></li>  <li>〽️ Fun fact: 1 + 1 = 10</li>  <li>🔰 Check out my <a  href="https://drive.google.com/file/d/1V01GXoiIncjhz-DnnUnnwjRCtcZ8NDYM/view?usp=drive_link"  target="_blank"  rel="noopener noreferrer">Resume</a></li>
+  </ul>
+</div>
+
+
+<h3 align="left" style="background-color: #05313d; color: white;">🆔 Connect with me:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/k-m-hasibur-rahman-srijon-5346b0220"><img src="https://img.shields.io/badge/LinkedIn-343A40?style=for-the-badge&logo=linkedin&logoColor=cyan" alt="linkedin badge"/></a>
@@ -27,7 +28,7 @@
 <a href="https://codeforces.com/profile/srijond75"><img src="https://img.shields.io/badge/CodeForces-343A40?style=for-the-badge&logo=codeforces&logoColor=cyan" alt="CodeForces badge"/></a>
 <a href="https://api.whatsapp.com/send?phone=8801671506100"><img src="https://img.shields.io/badge/Whatsapp-343A40?style=for-the-badge&logo=whatsapp&logoColor=cyan" alt="Whatsapp badge"/></a>
 
-<h3 align="left" style="background-color: #05313d; color: white;">Languages and Tools:</h3>
+<h3 align="left" style="background-color: #05313d; color: white;">🔩 Languages and Tools:</h3>
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -116,7 +117,7 @@
   </a>
 </p>
 
-### ⚙️ GitHub Analytics
+### 🧭 GitHub Analytics
 
 <div align="center">
   <table>
@@ -131,8 +132,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=srijon57&theme=tokyonight" alt="github stats" />
 </p>
 
-### **Recent projects:**
+### **💡 Recent projects:**
 
-<a href="https://github.com/srijon57/GeeK-Street-MERN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=GeeK-Street-MERN&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/srijon57/Uni-Craft"><img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=Uni-Craft&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/srijon57/Akash-Dosshu-CSE1200 "><img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=Akash-Dosshu-CSE1200&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/srijon57/GeeK-Street-MERN">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=GeeK-Street-MERN&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100" width="300"/>
+</a>
+<a href="https://github.com/srijon57/API-Works">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=Api-works&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100" width="300"/>
+</a>
+<a href="https://github.com/srijon57/Uni-Craft">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=Uni-Craft&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100" width="300"/>
+</a>
+<a href="https://github.com/srijon57/Akash-Dosshu-CSE1200">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=Akash-Dosshu-CSE1200&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100" width="300"/>
+</a>
+

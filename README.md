@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/srijon57?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/github/stars/srijon57?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
-<img src="https://media0.giphy.com/media/geWNOEFTB8FnEXTpm3/giphy.gif?cid=6c09b952asljkzg52mmkqkra6ssc7666eq6diyzwibn7e0yl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Coding" align="right" height="300" width="350">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21ycmdqZzRhdGJscG5tc203Ym5wbGg5ajFra2lleXBsenF1OWo4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IU9qrGDyGTehdZhEYG/giphy.webp" alt="Coding" align="right" height="300" width="450">
 
 ### 🌟 About Me 🌟
 

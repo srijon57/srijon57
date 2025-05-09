@@ -28,7 +28,8 @@
 <a href="https://codeforces.com/profile/srijond75"><img src="https://img.shields.io/badge/CodeForces-343A40?style=for-the-badge&logo=codeforces&logoColor=cyan" alt="CodeForces badge"/></a>
 <a href="https://api.whatsapp.com/send?phone=8801671506100"><img src="https://img.shields.io/badge/Whatsapp-343A40?style=for-the-badge&logo=whatsapp&logoColor=cyan" alt="Whatsapp badge"/></a>
 
-<h3 align="left" style="background-color: #05313d; color: white;">🔩 Languages and Tools:</h3>
+
+### 🔩 Languages and Tools:
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -115,7 +116,20 @@
   <a href="https://filmora.wondershare.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Wondershare%20Filmora-0A80FF?style=for-the-badge&logo=wondershare&logoColor=white" alt="filmora badge"/>
   </a>
+  <a  href="https://www.php.net/"  target="_blank"  rel="noreferrer">  <img  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"  alt="php badge"/> </a> 
+ <a  href="https://laravel.com/"  target="_blank"  rel="noreferrer">  <img  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"  alt="laravel badge"/>  </a>  
+ <a  href="https://www.microsoft.com/en-us/sql-server"  target="_blank"  rel="noreferrer">  <img  src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"  alt="mssql badge"/> 
+  </a> 
+<a  href="https://www.docker.com/"  target="_blank"  rel="noreferrer">  <img  src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"  alt="docker badge"/> 
+ </a> 
+<a  href="https://tailwindcss.com/"  target="_blank"  rel="noreferrer">  <img  src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"  alt="tailwind badge"/> 
+ </a>
+<a  href="https://railway.app/"  target="_blank"  rel="noreferrer">  <img  src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"  alt="railway badge"/> 
+ </a> 
+<a  href="https://vercel.com/"  target="_blank"  rel="noreferrer">  <img  src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"  alt="vercel badge"/>  
+</a>
 </p>
+
 
 ### 🧭 GitHub Analytics
 
@@ -123,14 +137,20 @@
   <table>
     <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=srijon57&theme=algolia" alt="srijon57's Github stats" /></td>
-      <td><img height="195px" alt="srijon57's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srijon57&theme=algolia&layout=compact" /></td>
+       <td><img src="https://github-readme-stats.vercel.app/api?username=srijon57&theme=tokyonight" alt="github stats" /></td>
     </tr>
   </table>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijon57&theme=tokyonight" alt="github stats" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+    <td><img height="195px" alt="srijon57's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srijon57&theme=algolia&layout=compact" /></td>
+      <td><img height="195px" alt="srijon57's Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijon57&theme=algolia" /></td>
+    </tr>
+  </table>
+</div>
+
 
 ### **💡 Recent projects:**
 

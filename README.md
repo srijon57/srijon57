@@ -1,4 +1,6 @@
 
+
+
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*641jWUJsaII6YX1x9_1lRA.gif)
 <h1 align="center" style="color: cyan;">Hello 👋, I'm K.M. Hasibur Rahman Srijon 😎</h1>
 <h3 align="center" style="color: grey;">"Passionate CSE Student | Code Enthusiast | Competitive Programmer"</h3>
@@ -21,7 +23,7 @@
 <h3 align="left" style="background-color: #05313d; color: white;">🆔 Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/k-m-hasibur-rahman-srijon-5346b0220"><img src="https://img.shields.io/badge/LinkedIn-343A40?style=for-the-badge&logo=linkedin&logoColor=cyan" alt="linkedin badge"/></a>
+<a href="https://www.linkedin.com/in/k-m-hasibur-rahman-srijon-138171366/"><img src="https://img.shields.io/badge/LinkedIn-343A40?style=for-the-badge&logo=linkedin-white&logoColor=cyan" alt="linkedin badge"/></a>
 <a href="https://www.facebook.com/pseudonym.srijon"><img src="https://img.shields.io/badge/Facebook-343A40?style=for-the-badge&logo=facebook&logoColor=cyan" alt="facebook badge"/></a>
 <a href="https://instagram.com/sql.srijon"><img src="https://img.shields.io/badge/Instagram-343A40?style=for-the-badge&logo=instagram&logoColor=cyan" alt="instagram badge"/></a>
 <a href="https://www.codechef.com/users/srijond75"><img src="https://img.shields.io/badge/Codechef-343A40?style=for-the-badge&logo=codechef&logoColor=cyan" alt="dev.to badge"/></a>
@@ -128,7 +130,7 @@
  </a> 
 <a  href="https://vercel.com/"  target="_blank"  rel="noreferrer">  <img  src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"  alt="vercel badge"/>  
 </a>
-</p>
+
 
 
 ### 🧭 GitHub Analytics
@@ -136,8 +138,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=srijon57&theme=algolia" alt="srijon57's Github stats" /></td>
-       <td><img src="https://github-readme-stats.vercel.app/api?username=srijon57&theme=tokyonight" alt="github stats" /></td>
+      <td> <img  src="https://git-hub-streak-stats.vercel.app?user=srijon57&theme=tokyonight&border_radius=80&card_width=450"  alt="GitHub Streak"  /> </td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=srijon57&theme=tokyonight" alt="GitHub stats" /></td>
     </tr>
   </table>
 </div>
@@ -146,7 +148,7 @@
   <table>
     <tr>
     <td><img height="195px" alt="srijon57's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srijon57&theme=algolia&layout=compact" /></td>
-      <td><img height="195px" alt="srijon57's Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijon57&theme=algolia" /></td>
+      <td><img height="150px" alt="srijon57's Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijon57&theme=algolia" /></td>
     </tr>
   </table>
 </div>

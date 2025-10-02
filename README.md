@@ -1,6 +1,3 @@
-
-
-
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*641jWUJsaII6YX1x9_1lRA.gif)
 <h1 align="center" style="color: cyan;">Hello 👋, I'm K.M. Hasibur Rahman Srijon 😎</h1>
 <h3 align="center" style="color: grey;">"Passionate CSE Student | Code Enthusiast | Competitive Programmer"</h3>
@@ -15,7 +12,7 @@
 
 <div >
   <ul>
-    <li>💠 I’m currently working on <a  href="https://github.com/srijon57/CareCritique">Care_Critique</a></li>  <li>💻 I’m currently learning Machine Learning, Deep Learning, MERN stack, PHP, Competitive Programming utilities, Code Smell, and more.</li>  <li>📧 How to reach me: <a  href="mailto:srijond75@gmail.com">srijond75@gmail.com</a></li>  <li>〽️ Fun fact: 1 + 1 = 10</li>  <li>🔰 Check out my <a  href="https://srijon57.github.io/"  target="_blank"  rel="noopener noreferrer">Portfolio</a></li>
+    <li>💠 I’m currently working on <a  href="https://github.com/srijon57/ScamSentinel">Scam-Sentinel</a></li>  <li>💻 I’m currently learning Machine Learning, Deep Learning, MERN stack, PHP, Competitive Programming utilities, Code Smell, and more.</li>  <li>📧 How to reach me: <a  href="mailto:srijond75@gmail.com">srijond75@gmail.com</a></li>  <li>〽️ Fun fact: 1 + 1 = 10</li>  <li>🔰 Check out my <a  href="https://srijon57.github.io/"  target="_blank"  rel="noopener noreferrer">Portfolio</a></li>
   </ul>
 </div>
 
@@ -130,7 +127,21 @@
  </a> 
 <a  href="https://vercel.com/"  target="_blank"  rel="noreferrer">  <img  src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"  alt="vercel badge"/>  
 </a>
-
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">  
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp badge"/>  
+</a>  
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">  
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="aspnetcore badge"/>  
+</a>  
+<a href="https://supabase.com/" target="_blank" rel="noreferrer">  
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase badge"/>  
+</a>  
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql badge"/>  
+</a>  
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql badge"/>  
+</a>
 
 
 ### 🧭 GitHub Analytics
@@ -138,7 +149,7 @@
 <div align="center">
   <table>
     <tr>
-      <td> <img  src="https://git-hub-streak-stats.vercel.app?user=srijon57&theme=tokyonight&border_radius=80&card_width=450"  alt="GitHub Streak"  /> </td>
+      <td> <img  src="https://git-hub-streak-stats.vercel.app?user=srijon57&theme=tokyonight&border_radius=40&card_width=450"  alt="GitHub Streak"  /> </td>
       <td><img src="https://github-readme-stats.vercel.app/api?username=srijon57&theme=tokyonight" alt="GitHub stats" /></td>
     </tr>
   </table>
@@ -168,4 +179,3 @@
 <a href="https://github.com/srijon57/Akash-Dosshu-CSE1200">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=Akash-Dosshu-CSE1200&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100" width="300"/>
 </a>
-

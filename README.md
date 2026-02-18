@@ -147,13 +147,13 @@
 ### 🧭 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=srijon57&show_icons=true&theme=tokyonight" height="100" width="300"/>
-  <img src="https://streak-stats.demolab.com?user=srijon57&theme=tokyonight" height="100" width="300""/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=srijon57&show_icons=true&theme=tokyonight" height="150" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=srijon57&theme=tokyonight" height="150" width="400""/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=srijon57&layout=compact&theme=tokyonight" height="100" width="300"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijon57&theme=tokyonight" height="100" width="300"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=srijon57&layout=compact&theme=tokyonight" height="150" width="350"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijon57&theme=tokyonight" height="200" width="450"/>
 </p>
 
 </p>

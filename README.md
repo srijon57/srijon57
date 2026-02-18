@@ -147,38 +147,16 @@
 ### 🧭 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=srijon57&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=srijon57&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=srijon57&show_icons=true&theme=tokyonight" height="100" width="300"/>
+  <img src="https://streak-stats.demolab.com?user=srijon57&theme=tokyonight" height="100" width="300""/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=srijon57&layout=compact&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijon57&theme=tokyonight" width="600"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=srijon57&layout=compact&theme=tokyonight" height="100" width="300"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijon57&theme=tokyonight" height="100" width="300"/>
 </p>
 
-  
 </p>
 
-
-
-### 💡 Recent Projects:
-
-<p align="center">
-  <a href="https://github.com/srijon57/GeeK-Street-MERN">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=srijon57&repo=GeeK-Street-MERN&theme=tokyonight&border_radius=20"/>
-  </a>
-  <a href="https://github.com/srijon57/API-Works">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=srijon57&repo=API-Works&theme=tokyonight&border_radius=20"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/srijon57/Uni-Craft">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=srijon57&repo=Uni-Craft&theme=tokyonight&border_radius=20"/>
-  </a>
-  <a href="https://github.com/srijon57/Akash-Dosshu-CSE1200">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=srijon57&repo=Akash-Dosshu-CSE1200&theme=tokyonight&border_radius=20"/>
-  </a>
-</p>
 
 

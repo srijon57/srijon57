@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/srijon57?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/github/stars/srijon57?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21ycmdqZzRhdGJscG5tc203Ym5wbGg5ajFra2lleXBsenF1OWo4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IU9qrGDyGTehdZhEYG/giphy.webp" alt="Coding" align="right" height="300" width="450">
+<img src="https://i.giphy.com/IU9qrGDyGTehdZhEYG.gif" alt="Coding" align="right" width="450"/>
 
 ### 🌟 About Me 🌟
 
@@ -146,36 +146,39 @@
 
 ### 🧭 GitHub Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td> <img  src="https://git-hub-streak-stats.vercel.app?user=srijon57&theme=tokyonight&border_radius=40&card_width=450"  alt="GitHub Streak"  /> </td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=srijon57&theme=tokyonight" alt="GitHub stats" /></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=srijon57&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=srijon57&theme=tokyonight" height="180"/>
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-    <td><img height="195px" alt="srijon57's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srijon57&theme=algolia&layout=compact" /></td>
-      <td><img height="150px" alt="srijon57's Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijon57&theme=algolia" /></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=srijon57&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijon57&theme=tokyonight" width="600"/>
+</p>
+
+  
+</p>
 
 
-### **💡 Recent projects:**
 
-<a href="https://github.com/srijon57/GeeK-Street-MERN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=GeeK-Street-MERN&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100" width="300"/>
-</a>
-<a href="https://github.com/srijon57/API-Works">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=Api-works&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100" width="300"/>
-</a>
-<a href="https://github.com/srijon57/Uni-Craft">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=Uni-Craft&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100" width="300"/>
-</a>
-<a href="https://github.com/srijon57/Akash-Dosshu-CSE1200">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srijon57&repo=Akash-Dosshu-CSE1200&title_color=3cf7b7&text_color=F2F2F2&bg_color=334f59&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100" width="300"/>
-</a>
+### 💡 Recent Projects:
+
+<p align="center">
+  <a href="https://github.com/srijon57/GeeK-Street-MERN">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=srijon57&repo=GeeK-Street-MERN&theme=tokyonight&border_radius=20"/>
+  </a>
+  <a href="https://github.com/srijon57/API-Works">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=srijon57&repo=API-Works&theme=tokyonight&border_radius=20"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/srijon57/Uni-Craft">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=srijon57&repo=Uni-Craft&theme=tokyonight&border_radius=20"/>
+  </a>
+  <a href="https://github.com/srijon57/Akash-Dosshu-CSE1200">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=srijon57&repo=Akash-Dosshu-CSE1200&theme=tokyonight&border_radius=20"/>
+  </a>
+</p>
+
+
